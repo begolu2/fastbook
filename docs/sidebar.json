@@ -1,6 +1,27 @@
 {
-  "nbdevtest": {
+  "fastbook": {
     "Overview": "/",
-    "module name here": "core.html"
+    "Your Deep Learning Journey": "intro.html",
+    "From Model to Production": "production.html",
+    "Data Ethics": "ethics.html",
+    "Under the Hood: Training a Digit Classifier": "mnist_basics.html",
+    "Image Classification": "pet_breeds.html",
+    "Other Computer Vision Problems": "multicat.html",
+    "Training a State-of-the-Art Model": "sizing_and_tta.html",
+    "Collaborative Filtering Deep Dive": "collab.html",
+    "Tabular Modeling Deep Dive": "tabular.html",
+    "NLP Deep Dive: RNNs": "nlp.html",
+    "Data Munging with fastai's Mid-Level API": "midlevel_data.html",
+    "A Language Model from Scratch": "nlp_dive.html",
+    "Convolutional Neural Networks": "convolutions.html",
+    "ResNets": "resnet.html",
+    "Application Architectures Deep Dive": "arch_details.html",
+    "The Training Process": "accel_sgd.html",
+    "A Neural Net from the Foundations": "foundations.html",
+    "CNN Interpretation with CAM": "CAM.html",
+    "A fastai Learner from Scratch": "learner.html",
+    "Concluding Thoughts": "conclusion.html",
+    "Creating a Blog": "app_blog.html",
+    "Appendix: Jupyter Notebook 101": "app_jupyter.html"
   }
 }

@@ -10,9 +10,72 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
-      url: core.html
+      title: Your Deep Learning Journey
+      url: intro.html
+    - output: web,pdf
+      title: From Model to Production
+      url: production.html
+    - output: web,pdf
+      title: Data Ethics
+      url: ethics.html
+    - output: web,pdf
+      title: 'Under the Hood: Training a Digit Classifier'
+      url: mnist_basics.html
+    - output: web,pdf
+      title: Image Classification
+      url: pet_breeds.html
+    - output: web,pdf
+      title: Other Computer Vision Problems
+      url: multicat.html
+    - output: web,pdf
+      title: Training a State-of-the-Art Model
+      url: sizing_and_tta.html
+    - output: web,pdf
+      title: Collaborative Filtering Deep Dive
+      url: collab.html
+    - output: web,pdf
+      title: Tabular Modeling Deep Dive
+      url: tabular.html
+    - output: web,pdf
+      title: 'NLP Deep Dive: RNNs'
+      url: nlp.html
+    - output: web,pdf
+      title: Data Munging with fastai's Mid-Level API
+      url: midlevel_data.html
+    - output: web,pdf
+      title: A Language Model from Scratch
+      url: nlp_dive.html
+    - output: web,pdf
+      title: Convolutional Neural Networks
+      url: convolutions.html
+    - output: web,pdf
+      title: ResNets
+      url: resnet.html
+    - output: web,pdf
+      title: Application Architectures Deep Dive
+      url: arch_details.html
+    - output: web,pdf
+      title: The Training Process
+      url: accel_sgd.html
+    - output: web,pdf
+      title: A Neural Net from the Foundations
+      url: foundations.html
+    - output: web,pdf
+      title: CNN Interpretation with CAM
+      url: CAM.html
+    - output: web,pdf
+      title: A fastai Learner from Scratch
+      url: learner.html
+    - output: web,pdf
+      title: Concluding Thoughts
+      url: conclusion.html
+    - output: web,pdf
+      title: Creating a Blog
+      url: app_blog.html
+    - output: web,pdf
+      title: 'Appendix: Jupyter Notebook 101'
+      url: app_jupyter.html
     output: web
-    title: nbdevtest
+    title: fastbook
   output: web
   title: Sidebar
